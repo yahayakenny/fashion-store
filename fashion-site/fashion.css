@@ -1,0 +1,359 @@
+.top-bar {
+    position: relative;
+}
+
+.top-bar img {
+    position: absolute;
+    left: 70px;
+    top: 6px;
+}
+
+.top-bar .content ul {
+    
+    text-align: center;
+    padding: 10px 0px;
+    margin-right: 80px;
+    
+}
+
+.top-bar .content ul li{
+    display: inline;
+    font-size: 20px;
+    /* border: 0.5px solid black; */
+    padding: 5px 5px;
+    /* background-color: orangered; */
+    color: black;
+    border-radius: 5px;
+    padding: 10px 5px;
+    margin: 0px 20px;
+}
+
+
+
+.next-div img {
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 90%
+
+    
+}
+.paragraph p {
+    font-family: monospace;
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    line-height: 35px;
+    font-size: 20px;
+
+}
+
+
+
+
+.third-div .image-1{
+    margin-left: 20px;
+    margin-left: 50px;
+
+}
+
+.third-div .image-2{
+    margin-left: 60px;
+
+}
+
+.fourth-div h5 {
+    margin-left: 50px;
+   
+}
+
+.fourth-div .image-1 {
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+
+
+.fourth-div .image-2 {
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.fourth-div .images .group-1{
+    display: flex;
+}
+
+.fourth-div .images .group-2{
+    display: flex;
+}
+
+
+.fourth-div .image-3 {
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.fourth-div .images .group-1 .image-div-1 .image-content1 {
+    margin-left: 50px;
+    line-height: 5px;
+    position: absolute;
+}
+.fourth-div .images .group-1 .image-div-2 .image-content2 {
+    margin-left: 50px;
+    line-height: 5px;
+}
+.fourth-div .images .group-1 .image-div-3 .image-content3 {
+    margin-left: 50px;
+    line-height: 5px;
+}
+.fourth-div .images .group-2 .image-div-4 .image-content4 {
+    margin-left: 50px;
+    line-height: 5px;
+    position: absolute;
+}
+.fourth-div .images .group-2 .image-div-5 .image-content3 {
+    margin-left: 50px;
+    line-height: 5px;
+}
+.fourth-div .images .group-2 .image-div-6 .image-content3 {
+    margin-left: 50px;
+    line-height: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fourth-div .images .image-div-1 {
+    position: relative;
+}
+
+footer 
+{
+    padding: 30px;
+  
+}
+
+footer .container .row .col .top {
+    font-weight: 800;
+    font-size: 15px;
+    border-bottom: 1px solid white ;
+}
+
+footer .contact .icons {
+    text-align: center;
+    padding: 15px;
+}
+
+footer .contact p {
+    text-align: center;
+}
+
+h5 {
+    margin-left: 50px;
+}
+
+.parent .slider {
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .top-bar {
+        position: relative;
+    }
+    
+    .top-bar img {
+        position: absolute;
+        left: 20px;
+        top: 3px;
+    }
+    
+    .top-bar .content ul {
+        
+        text-align: center;
+        padding: 5px 0px;
+        margin-left: 70px;
+        
+    }
+    
+    .top-bar .content ul li{
+        display: inline;
+        font-size: 15px;
+        padding: 5px 5px;
+        color: black;
+        padding: 10px 2px;
+        margin: 0px 5px;
+    }
+    
+    
+    
+    .next-div img {
+        margin-left: 60px;
+        margin-top: 20px;
+        width: 80%;
+        height: 400px;
+    
+        
+    }
+    .paragraph p {
+        font-family: monospace;
+        text-align: center;
+        width: 80%;
+        margin: 0 auto;
+        line-height: 35px;
+        font-size: 20px;
+    
+    }
+    
+    
+    .third-div .image-1{
+        
+        margin-left: 50px;
+        width: 80%;
+        height: 400px;
+        margin-bottom: 20px;
+    
+    }
+    
+    .third-div .image-2{
+        margin-left: 50px;
+        width: 80%;
+        height: 400px;
+    
+    }
+    
+    .fourth-div h5 {
+        margin-left: 50px;
+       
+       
+    }
+
+    
+    
+    .fourth-div .images .image-div-1  .image-1 {
+        margin-left: 35px;
+        margin-bottom: 30px;
+        width: 400px;
+        height: 400px;
+        display: block;
+    }
+    
+    
+    .fourth-div .images .image-div-2 .image-2{
+        margin-left: 40px;
+        margin-bottom: 10px;
+        width: 400px;
+        height: 400px;
+        display: block;
+    }
+    
+    
+    
+    
+    .fourth-div .images .image-div-3 .image-3{
+        margin-left: 40px;
+        margin-bottom: 10px;
+        width: 400px;
+        height: 400px;
+        display: block;
+    }
+
+    .fourth-div .images .group-1 .image-div-1 .image-content1 {
+        margin-left: 50px;
+        line-height: 5px;
+        position: absolute;
+        bottom: 20px;
+    }
+    .fourth-div .images .group-1 .image-div-2 .image-content2 {
+        margin-left: 50px;
+        line-height: 5px;
+        margin-bottom:50px ;
+    }
+    .fourth-div .images .group-1 .image-div-3 .image-content3 {
+        margin-left: 50px;
+        line-height: 5px;
+        margin-bottom:70px ;
+    } 
+    .fourth-div .images .group-2 .image-div-4 .image-content4 {
+        visibility: hidden;
+        margin-left: 50px;
+        line-height: 5px;
+      
+        bottom: 20px;
+    }
+    .fourth-div .images .group-2 .image-div-5 .image-content5 {
+        margin-left: 50px;
+        line-height: 5px;
+        margin-bottom:50px ;
+    }
+    .fourth-div .images .group-2 .image-div-6 .image-content6 {
+        margin-left: 50px;
+        line-height: 5px;
+        margin-bottom:70px ;
+    } 
+
+    /* .fourth-div .images .group-2 .image-div-4 .image-content4 {
+        margin-left: 70px;
+        line-height: 5px;
+        bottom: 20px;
+        margin-bottom:70px;
+    } */
+
+
+
+    /* .fourth-div .images  {
+        position: relative;
+    } */
+    
+    footer 
+    {
+        padding: 30px;
+    }
+    
+    footer .container .row .col .top {
+        font-weight: 800;
+        font-size: 15px;
+        border-bottom: 1px solid white ;
+    }
+    
+    footer .contact .icons {
+        text-align: center;
+        padding: 15px;
+    }
+    
+    footer .contact p {
+        text-align: center;
+    }
+    
+    h5 {
+        margin-left: 50px;
+    }
+    .fourth-div .images .group-1{
+        display: block;
+    }
+    
+    .fourth-div .images .group-2{
+        display: block;
+    }
+
+
+
+
+
+
+    }
+    
+   
